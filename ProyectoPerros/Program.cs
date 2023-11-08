@@ -11,6 +11,8 @@ namespace ProyectoPerros
         static void Main(string[] args)
         {
 
+            //INICIO
+
             Perro perro_1 = new Perro("Border Collie", "Macho","Blanco y negro");
             Perro perro_2 = new Perro("Pastor Aleman", "Macho", "Negro");
             Perro perro_3 = new Perro("Dogo", "Hembra", "Blanca");
